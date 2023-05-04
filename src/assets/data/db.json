@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "firstname": "Ayisha",
+      "lastname": "Fida",
+      "birthdate": "1998-07-15",
+      "gender": "f",
+      "education": "graduate",
+      "company": "UST",
+      "jobExperience": 3,
+      "salary": 7,
+      "profile": "profile-04.jpeg",
+      "id": 6
+    },
+    {
+      "firstname": "Asmina",
+      "lastname": "T A",
+      "birthdate": "1998-05-04",
+      "gender": "f",
+      "education": "graduate",
+      "company": "NO",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "profile-05.jpeg",
+      "id": 7
+    },
+    {
+      "firstname": "AMAL",
+      "lastname": "JOY",
+      "birthdate": "2022-01-12",
+      "gender": "m",
+      "education": "PhD",
+      "company": "Google",
+      "jobExperience": 20,
+      "salary": 50,
+      "id": 8
+    },
+    {
+      "firstname": "FASAL",
+      "lastname": "Shah",
+      "birthdate": "1985-09-23",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "Microsoft",
+      "jobExperience": 25,
+      "salary": 50,
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
